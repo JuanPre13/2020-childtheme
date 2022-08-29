@@ -1,0 +1,13 @@
+/*
+    Theme Name: TwentyTwenty Child Theme
+    Description: Twenty Twenty Child Theme
+    Author: Juanpredev
+    Template: twentytwenty
+    Version: 1.0.0
+*/
+.site-content-comntain {
+    background: #FEEF97;
+}
+.custom-footer {
+    clear: both;
+}
